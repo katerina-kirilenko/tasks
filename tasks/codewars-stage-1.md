@@ -5,12 +5,12 @@
 - [x]  2. 8 kyu https://www.codewars.com/kata/remove-first-and-last-character
 - [x]  3. 8 kyu https://www.codewars.com/kata/palindrome-strings
 - [x]  4. 7 kyu https://www.codewars.com/kata/anagram-detection
-- [ ]  5. 7 kyu https://www.codewars.com/kata/birthday-i-cake
+- [x]  5. 7 kyu https://www.codewars.com/kata/birthday-i-cake
 
 ### Number
 - [x]  6. 8 kyu https://www.codewars.com/kata/even-or-odd
 - [x]  7. 8 kyu https://www.codewars.com/kata/century-from-year
-- [ ]  8. 7 kyu https://www.codewars.com/kata/greatest-common-divisor
+- [x]  8. 7 kyu https://www.codewars.com/kata/greatest-common-divisor
 - [x]  9. 7 kyu https://www.codewars.com/kata/factorial
 - [ ]  10. 7 kyu https://www.codewars.com/kata/find-the-duplicated-number-in-a-consecutive-unsorted-list
 - [ ]  11. 6 kyu https://www.codewars.com/kata/is-a-number-prime/
