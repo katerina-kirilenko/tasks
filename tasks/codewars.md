@@ -21,7 +21,7 @@ Codewars:
   - [ ] 19. (5 kyu) http://www.codewars.com/kata/function-cache
   - [ ] 20. (6 kyu) http://www.codewars.com/kata/function-composition
   - [ ] 21. (6 kyu) http://www.codewars.com/kata/function-composition-1
-  - [ ] 22. (6 kyu) http://www.codewars.com/kata/stringing-me-along
+  - [x] 22. (6 kyu) http://www.codewars.com/kata/stringing-me-along
   - [ ] 23. (5 kyu) http://www.codewars.com/kata/i-spy
   - [ ] 24. (5 kyu) http://www.codewars.com/kata/calculating-with-functions
   - [x] 25. (7 kyu) http://www.codewars.com/kata/santaclausable-interface
